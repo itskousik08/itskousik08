@@ -16,3 +16,9 @@
 [![](https://visitcount.itsvg.in/api?id=Koudik53&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📌 Featured Projects
+🔹 **MobCloud** – A powerful tool for developers to run and manage cloud-based tasks.
+
+🔹 **AI Experiments** – Small AI tools and automation scripts.
+
+🔹 **Web Projects** – Creative websites built using HTML, CSS, JavaScript.
