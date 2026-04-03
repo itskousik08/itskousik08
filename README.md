@@ -1,24 +1,103 @@
-# 💫 About Me:
-🚀 Developer | Builder | Dreamer  <br>💻 Learning Web Development & AI  <br>⚡ Building projects & experimenting with ideas  <br>📈 Future Entrepreneur  <br>🌍 From India
+<h1 align="center">Hi 👋, I'm Kousik</h1>
+<h3 align="center">🚀 Developer • Builder • Future Entrepreneur</h3>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/wBKX7nMa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_kousik08) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Koudik53&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itskousik08&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Koudik53&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Cool+Things+on+the+Internet;Web+Dev+%2B+AI+Explorer;Future+Startup+Founder;Always+Learning+New+Stuff" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Koudik53&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+- 🚀 Passionate about building impactful digital products  
+- 💻 Currently learning **Web Development & AI**  
+- ⚡ Love experimenting with new ideas & side projects  
+- 📈 Goal: Build scalable online businesses  
+- 🌍 Based in India  
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://discord.gg/wBKX7nMa"><img src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://instagram.com/its_kousik08"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+### 🚀 Languages
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+
+### 🌐 Web & Backend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![SASS](https://skillicons.dev/icons?i=sass)
+![PHP](https://skillicons.dev/icons?i=php)
+
+### ☁️ Cloud & DevOps
+![AWS](https://skillicons.dev/icons?i=aws)
+![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![DigitalOcean](https://skillicons.dev/icons?i=digitalocean)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Netlify](https://skillicons.dev/icons?i=netlify)
+
+### 🗄️ Databases
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MSSQL](https://skillicons.dev/icons?i=mssql)
+
+### 🎨 Tools & Design
+![Canva](https://skillicons.dev/icons?i=canva)
+![Adobe](https://skillicons.dev/icons?i=ae)
+![Terminal](https://skillicons.dev/icons?i=linux)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itskousik08&theme=tokyonight&hide_border=true&show_icons=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=itskousik08&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskousik08&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+---
+
 ## 📌 Featured Projects
-🔹 **MobCloud** – A powerful tool for developers to run and manage cloud-based tasks.
 
-🔹 **AI Experiments** – Small AI tools and automation scripts.
+### 🔹 MobCloud  
+⚡ Cloud-based developer toolkit to run & manage tasks  
 
-🔹 **Web Projects** – Creative websites built using HTML, CSS, JavaScript.
+### 🔹 AI Experiments  
+🤖 Mini AI tools, automation & experiments  
+
+### 🔹 Web Projects  
+🌐 Modern UI/UX websites built with creativity  
+
+---
+
+## 🧠 Current Focus
+- 🧑‍💻 Advanced Full Stack Development  
+- 🤖 AI + Automation Tools  
+- 💸 Building Passive Income Projects  
+
+---
+
+## 🔥 Fun Fact
+> "I don't just use technology — I build things with it."
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=itskousik08&icon=5&color=6" />
+</p>
